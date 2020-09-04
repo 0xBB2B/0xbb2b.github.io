@@ -16,7 +16,7 @@ const timeout = 75
 
 
 const p = document.createElement('p')
-document.getElementById('home-subtitle').appendChild(p)
+document.getElementById('home-subtitle').after(p)
 
 const colors = [
   'red',
