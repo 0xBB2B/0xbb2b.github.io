@@ -4,14 +4,13 @@ const skills = [
   'JavaScript',
   'HTML & CSS',
   'PHP & MySQL',
-  'VueJS',
-  'Laravel',
+  'VueJS & Laravel',
   'Go Language',
   'passion & love'
 ].map(s => `${s}.`)
 const delay = 2
 const step = 1
-const tail = 5
+const tail = 3
 const timeout = 75
 
 
