@@ -5,3 +5,8 @@ p {
   font-size: 22px;
   font-weight: bold;
 }
+
+img {
+  width: 400px;
+  height: 400px;
+}
