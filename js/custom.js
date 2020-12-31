@@ -1,11 +1,10 @@
 const prefix = 'I work with '
 const skills = [
+  'Go Language',
+  'Swift',
   'TypeScript',
   'JavaScript',
   'HTML & CSS',
-  'PHP & MySQL',
-  'VueJS & Laravel',
-  'Go Language',
   'passion & love'
 ].map(s => `${s}.`)
 const delay = 2
