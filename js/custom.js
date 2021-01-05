@@ -1,7 +1,7 @@
 const prefix = 'I work with '
 const skills = [
   'Go Language',
-  'Swift',
+  'Swift & Kotlin',
   'TypeScript',
   'JavaScript',
   'HTML & CSS',
