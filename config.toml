@@ -1,0 +1,17 @@
+baseURL = "https://yorha.xyz/"
+languageCode = "en-us"
+title = "YoRHa unit"
+
+[params]
+    # dateFormat = "2006-01-02"
+
+[params.author]
+name = "BB"
+image = "img/profile.png"
+headline = "Lounger change the world."
+bio = "Lounger change the world."
+links = [
+  { github = "https://github.com/0xBB2b" },
+  # { linkedin = "https://www.linkedin.com/in/0xBB2b" },
+  { email = "mailto:2b@yorha.xyz" },
+]
