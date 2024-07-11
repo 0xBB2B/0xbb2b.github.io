@@ -8,7 +8,7 @@ date: 2020-06-29T11:14:15+09:00
 
 Hey, Guys! Nice to meet you.
 
-I'm BB, you can call me BB or 2B.
+I'm [BB](/about), you can call me BB or 2B.
 
 Working as a full-stack engineer.
 
